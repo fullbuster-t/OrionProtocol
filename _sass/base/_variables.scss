@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+// Font
+$principalFont: "Roboto", sans-serif;
+
+// Media Queries size
+$phone: 480px;
+$tablet: 768px;
+$desktop: 1024px;
+
+// Colors
+/* Black Theme Blue */
+$primaryColor: #3cbbf9;
+$secondaryColor: #233845;
+$boxColor: #161e23;
+$backColor: #080e12;
+
+/* Black Theme Purple */
+//$primaryColor: #988cf1; // Un morado claro con un toque de azul, similar al azul original
+//$secondaryColor: #3a2f4b; // Un morado oscuro y saturado, para mantener el contraste
+//$boxColor: #282234; // Un morado más claro que el secundario, para crear profundidad
+//$backColor: #1a1521; // Un morado muy oscuro, para el fondo
+
+$gray: #464c50;
+$lightGray: #959596;
+
+// Font size
+$fontSmall: 300;
+$fontRegular: 400;
+$fontBold: 700;
+$fontBlack: 900;
+
+
+/* Stars */
+$stars: 500;         // Number of start per layer
+$depth: 300;         // Depth between star layers
+$speed: 9s;          // Number of seconds to transition between layers
+$width: 3000;        // Width of the starfield
+$height: 2000;        // Height of the starfield
