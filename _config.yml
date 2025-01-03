@@ -71,4 +71,9 @@ jekyll-archives:
     category: /category/:name/
     tag: /tag/:name/
 
-highlighter: rouge
+# highlighter: rouge
+# markdown: kramdown
+# kramdown:
+#   syntax_highlighter_opts:
+#      block:
+#        line_numbers: true
