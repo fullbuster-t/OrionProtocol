@@ -1,11 +1,11 @@
 // Stars
 var totalObjetos = 1500;
 var velocidadMaxima = 1;
-var tamanoEstrella = 1.5;
+var tamanoEstrella = 2.5;
 var frecuenciaParpadeo = 50000;
-var frecuenciaEstrellaFugaz = 500;
-var velocidadEstrellaFugaz = 100;
-var tamanoEstrellaFugaz = 2;
+var frecuenciaEstrellaFugaz = 250;
+var velocidadEstrellaFugaz = 75;
+var tamanoEstrellaFugaz = 3;
 
 window.requestAnimFrame = (function() {
     return  window.requestAnimationFrame       ||
