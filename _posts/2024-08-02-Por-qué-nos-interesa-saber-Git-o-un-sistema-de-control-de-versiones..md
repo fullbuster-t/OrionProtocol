@@ -5,7 +5,7 @@ date: 2024-08-02 08:50:00 -0600
 categories: [Git y GitHub]
 tags: [Git]
 description: Cuando se tiene un control de versiones, hacemos uso de una especie de máquina del tiempo, ya que, mediante ella, podremos viajar a distintas temporalidades dentro de un proyecto de programación.....
-img: /assets/img/git-001.png
+img: /assets/img/git-001.webp
 ---
 
 --- 

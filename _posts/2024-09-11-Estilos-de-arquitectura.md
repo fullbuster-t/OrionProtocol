@@ -5,7 +5,7 @@ date: 2024-09-11 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Fundamentos de arquitectura de software]
 description: ¿Qué es un estilo de arquitectura?....
-img: /assets/img/arq-008.png
+img: /assets/img/arq-008.webp
 ---
 
 ---
@@ -26,11 +26,11 @@ Existe una cierta diferencia entre un estilo y una arquitectura de software. Un 
 
 Un patrón (ejemplificando con MVC) nos da una solución ya prefabricada en la que ingresamos nuestros problemas de dominio.
 
-![alt text](/assets/img/arq-008-1.png){: width="500" }
+![alt text](/assets/img/arq-008-1.webp){: width="500" }
 
 Una característica de los patrones es que puedo obedecer a varios estilos, asi que puede combinar los mejor de varios estilos 
 
-![alt text](/assets/img/arq-008-2.png){: width="500" }
+![alt text](/assets/img/arq-008-2.webp){: width="500" }
 
 
 

@@ -5,7 +5,7 @@ date: 2024-09-06 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Fundamentos de arquitectura de software]
 description: El concepto sencillo para definirlo es lo que el software hace durante su ejecución. Para entenderlo de mejor manera, pongamos como ejemplo a Twitter.....
-img: /assets/img/arq-006.png
+img: /assets/img/arq-006.webp
 ---
 
 ---

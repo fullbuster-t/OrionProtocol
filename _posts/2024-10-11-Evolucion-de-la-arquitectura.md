@@ -5,7 +5,7 @@ date: 2024-10-11 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Fundamentos de arquitectura de software]
 description: La arquitectura, al igual que el software, debe mantenerse en constante evolución y adaptarse a lo largo del tiempo.....
-img: /assets/img/arq-021.png
+img: /assets/img/arq-021.webp
 ---
 
 ---
@@ -18,7 +18,7 @@ Las revisiones periódicas son muy comunes dentro del proceso de evolución, ya 
 
 Otra forma de lograr la evolución en el software es a través de **fitness functions**, que nos permiten realizar pruebas de funcionalidad dentro del software.
 
-![alt text](/assets/img/arq-021-1.png){: width="750" }
+![alt text](/assets/img/arq-021-1.webp){: width="750" }
 
 ### Otras estrategias de evolución
 

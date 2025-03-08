@@ -5,7 +5,7 @@ date: 2024-09-27 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Fundamentos de arquitectura de software]
 description: Una de las actividades que realizaremos como arquitectos de software es la documentación de las decisiones que tomemos para comunicarlas a otros.....
-img: /assets/img/arq-015.png
+img: /assets/img/arq-015.webp
 ---
 
 ---

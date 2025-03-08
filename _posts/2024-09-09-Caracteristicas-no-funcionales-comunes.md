@@ -5,7 +5,7 @@ date: 2024-09-09 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Fundamentos de arquitectura de software]
 description: Las características no funcionales, comúnmente llamadas “características estructurales de calidad o arquitectónicas”, son aquellas que el sistema tiene como características de calidad, que además puede hacer, pero que no están completamente relacionadas con el dominio.....
-img: /assets/img/arq-007.png
+img: /assets/img/arq-007.webp
 ---
 
 --- 

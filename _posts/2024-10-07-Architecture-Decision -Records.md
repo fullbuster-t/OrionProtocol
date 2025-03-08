@@ -5,7 +5,7 @@ date: 2024-10-07 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Fundamentos de arquitectura de software]
 description: Se pueden definir como una serie de documentos que sirven para registrar las decisiones que se toman durante la elección o incluso el cambio de la arquitectura.....
-img: /assets/img/arq-019.png
+img: /assets/img/arq-019.webp
 ---
 
 ---
@@ -14,7 +14,7 @@ img: /assets/img/arq-019.png
 
 Se pueden definir como una serie de documentos que sirven para registrar las decisiones que se toman durante la elección o incluso el cambio de la arquitectura de un sistema de software. Dentro de su principal propósito está proporcionar un historial de los cambios y el razonamiento detrás de las decisiones que se toman en nuestra arquitectura, lo cual es clave.
 
-![alt text](/assets/img/arq-019-1.png){: width="750" }
+![alt text](/assets/img/arq-019-1.webp){: width="750" }
 
 ### Las partes que lo conforman
 

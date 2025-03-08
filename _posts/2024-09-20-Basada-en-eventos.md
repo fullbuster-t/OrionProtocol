@@ -5,7 +5,7 @@ date: 2024-09-20 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Fundamentos de arquitectura de software]
 description: En este estilo de arquitectura, principalmente se utilizan eventos para desacoplar y desencadenar la comunicación entre los distintos servicios y/o componentes del sistema.....
-img: /assets/img/arq-012.png
+img: /assets/img/arq-012.webp
 ---
 
 ---
@@ -19,12 +19,12 @@ La arquitectura basada en eventos se basa en el cambio de eventos; tenemos una c
 
 En este estilo de arquitectura, existen dos topologías:
 
-![alt text](/assets/img/arq-012-1.png){: width="600" }
+![alt text](/assets/img/arq-012-1.webp){: width="600" }
 
 * Broker: es una topología en la cual se desencadenan los eventos de manera secuencial. Esto nos permite tener un alto nivel de sensibilidad dentro del sistema, manteniendo un buen rendimiento.
 * Mediador: existe una figura central en la cual todos los eventos se comunican y se desencadena un flujo de trabajo.
 
-![alt text](/assets/img/arq-012-2.png){: width="700" }
+![alt text](/assets/img/arq-012-2.webp){: width="700" }
 
 La topología broker se basa en un flujo donde los procesadores de eventos desencadenan un flujo de manera continua. Es muy útil cuando se tiene un flujo de procesamiento simple y no es necesaria la orquestación.
 
@@ -45,7 +45,7 @@ Ventajas:
 Desventajas:
 * Dentro de esta topología, no se tiene control sobre el flujo, lo que dificulta la detección de errores o pérdidas de información. Por ello, el manejo de errores es complicado en esta topología.
 
-![alt text](/assets/img/arq-012-3.png){: width="700" }
+![alt text](/assets/img/arq-012-3.webp){: width="700" }
 
 En esta topología se tiene al mediador como principal componente, y se encarga de manejar, controlar el flujo de trabajo y de iniciar los eventos que requieren coordinación dentro de los canales de eventos, para ser recibidos por los procesadores de eventos que necesiten procesar.
 
@@ -68,7 +68,7 @@ Desventajas:
 
 Lo que podemos hacer es la implementación de una comunicación pseudosíncrona a través de “Request-Reply”.
 
-![alt text](/assets/img/arq-012-4.png){: width="600" }
+![alt text](/assets/img/arq-012-4.webp){: width="600" }
 
 En este modelo tenemos un productor de eventos y un consumidor de eventos. En el proceso de estos eventos, tenemos la siguiente serie de pasos:
 
@@ -80,5 +80,5 @@ En este modelo tenemos un productor de eventos y un consumidor de eventos. En el
 
 Cuándo usarla y cuándo no:
 
-![alt text](/assets/img/arq-012-5.png){: width="600" }
+![alt text](/assets/img/arq-012-5.webp){: width="600" }
 

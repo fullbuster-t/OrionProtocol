@@ -5,14 +5,14 @@ date: 2024-09-18 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Fundamentos de arquitectura de software]
 description: Es un estilo de arquitectura sencillo que también se llama micro-núcleo y tiene el siguiente estilo de topología.....
-img: /assets/img/arq-011.png
+img: /assets/img/arq-011.webp
 ---
 
 ---
 
 Es un estilo de arquitectura sencillo que también se llama micro-núcleo y tiene el siguiente estilo de topología.
 
-![alt text](/assets/img/arq-011-1.png){: width="500" }
+![alt text](/assets/img/arq-011-1.webp){: width="500" }
 
 En esta topología, se tiene un sistema o módulo central que realiza la funcionalidad principal del sistema. Después, se suele enriquecer este módulo central con más funcionalidades mediante plug-ins.
 
@@ -24,7 +24,7 @@ El módulo central de nuestro sistema puede tener su propia arquitectura; por ej
 
 Una de las dificultades de esta arquitectura es cómo se va a definir una forma de crear plug-ins de manera que se comuniquen de manera sencilla. Una vez que se logra esto, podemos extender nuestro software de una manera sencilla sin tener que modificar el sistema central.
 
-![alt text](/assets/img/arq-011-2.png){: width="500" }
+![alt text](/assets/img/arq-011-2.webp){: width="500" }
 
 ¿Cuándo usarla y cuándo no?
 

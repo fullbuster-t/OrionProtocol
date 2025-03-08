@@ -5,7 +5,7 @@ date: 2024-07-15 19:55:00 -0600
 categories: [Redes]
 tags: [CCNA]
 description: Una red es la conexión entre dos o más dispositivos que permite el intercambio de datos o información.....
-img: /assets/img/net-001.png
+img: /assets/img/net-001.webp
 ---
 
 ---

@@ -5,7 +5,7 @@ date: 2024-07-19 20:05:00 -0600
 categories: [Redes]
 tags: [CCNA]
 description: A medida que aumenta la cantidad de dispositivos y las ubicaciones geográficas involucradas, las redes reciben distintos nombres.....
-img: /assets/img/net-003.png
+img: /assets/img/net-003.webp
 ---
 
 --- 
@@ -42,4 +42,4 @@ Representada por la parte amarilla, es una extensión de la intranet que permite
 - Internet:
 Representada por la parte roja, es todo lo externo a la red de la empresa. Por lo general, las medidas de seguridad evitan que el Internet tenga acceso a la intranet o extranet.
 
-![alt text](/assets/img/net-003-1.png){: width="500" }
+![alt text](/assets/img/net-003-1.webp){: width="500" }

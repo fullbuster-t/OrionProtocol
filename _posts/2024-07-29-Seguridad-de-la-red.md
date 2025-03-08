@@ -5,7 +5,7 @@ date: 2024-07-29 20:26:00 -0600
 categories: [Redes]
 tags: [CCNA]
 description: A medida que pasa el tiempo, los atacantes descubren nuevas formas de comprometer nuestras redes.....
-img: /assets/img/net-007.png
+img: /assets/img/net-007.webp
 ---
 
 --- 

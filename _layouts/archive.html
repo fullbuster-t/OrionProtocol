@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="main__archive">
+<main class="main__archive">
 
     {% if page.type == "category" %}
     <div class="main__subtitle content-center">
@@ -17,45 +17,29 @@ layout: default
     {% endif %}
 
     {% for post in page.posts %}
-        {% if page.type == "category" %}
-            <li class="main__archive--item">
-                <div class="main__archive--flex">
-                    <div class="main__archive--left">
-                        <span class="main__archive--icon"><i class="fa-solid fa-meteor"></i></span>
-                        <small class="main__archive--date">{{ post.date | date: "%d-%m-%Y" }}</small>
-                    </div>
-                    <div class="main__archive--center">
-                        <div class="main__archive--symbol"></div>
-                    </div>
-                    <div class="main__archive--right">
-                        <p class="main__archive--title"><a href="{{ post.url }}" class="main__archive--post">{{ post.title }}</a></p>
-                        <div class="main__archive--categories">
-                            <small><i class="fa-solid fa-bars"></i></small>
-                            <small class="main__archive--categorie">{{ post.categories }}</small>
-                        </div>
-                    </div>
+    <article class="main__archive--item">
+        <div class="main__archive--flex">
+            <div class="main__archive--left">
+                <span class="main__archive--icon"><i class="fa-solid fa-meteor" aria-hidden="true"></i></span>
+                <small class="main__archive--date">{{ post.date | date: "%d-%m-%Y" }}</small>
+            </div>
+            <div class="main__archive--center">
+                <div class="main__archive--symbol"></div>
+            </div>
+            <div class="main__archive--right">
+                <p class="main__archive--title"><a href="{{ post.url }}" class="main__archive--post">{{ post.title
+                        }}</a></p>
+                <div class="main__archive--categories">
+                    {% if page.type == "category" %}
+                    <small><i class="fa-solid fa-bars" aria-hidden="true"></i></small>
+                    <small class="main__archive--categorie">{{ post.categories }}</small>
+                    {% elsif page.type == "tag" %}
+                    <small><i class="fa-solid fa-hashtag" aria-hidden="true"></i></small>
+                    <small class="main__archive--categorie">{{ post.tags }}</small>
+                    {% endif %}
                 </div>
-            </li>
-        {% elsif page.type == "tag" %}
-            <li class="main__archive--item">
-                <div class="main__archive--flex">
-                    <div class="main__archive--left">
-                        <span class="main__archive--icon"><i class="fa-solid fa-meteor"></i></span>
-                        <small class="main__archive--date">{{ post.date | date: "%d-%m-%Y" }}</small>
-                    </div>
-                    <div class="main__archive--center">
-                        <div class="main__archive--symbol"></div>
-                    </div>
-                    <div class="main__archive--right">
-                        <p class="main__archive--title"><a href="{{ post.url }}" class="main__archive--post">{{ post.title }}</a></p>
-                        <div class="main__archive--categories">
-                            <small><i class="fa-solid fa-hashtag"></i></small>
-                            <small class="main__archive--categorie">{{ post.tags }}</small>
-                        </div>
-                    </div>
-                </div>
-            </li>
-        {% endif %}
+            </div>
+        </div>
+    </article>
     {% endfor %}
-</div>
-
+</main>

@@ -5,14 +5,14 @@ date: 2024-09-02 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Fundamentos de arquitectura de software]
 description: Son conocidos como compensaciones. En la arquitectura de software, todo es un tradeoff, por lo cual es importante analizarlos y buscar tanto ventajas como desventajas.....
-img: /assets/img/arq-004.png
+img: /assets/img/arq-004.webp
 ---
 
 ---
 
 Son conocidos como compensaciones. En la arquitectura de software, todo es un tradeoff, por lo cual es importante analizarlos y buscar tanto ventajas como desventajas.
 
-![alt text](/assets/img/arq-004-1.png){: width="600" }
+![alt text](/assets/img/arq-004-1.webp){: width="600" }
 
 Con ayuda de este gráfico podemos diferenciar distintos tipos de tradeoffs:
 
@@ -21,7 +21,7 @@ Con ayuda de este gráfico podemos diferenciar distintos tipos de tradeoffs:
 
 Imaginemos un caso práctico donde tenemos un e-commerce que tiene distintos componentes y módulos.
 
-![alt text](/assets/img/arq-004-2.png){: width="700" }
+![alt text](/assets/img/arq-004-2.webp){: width="700" }
 
 El contexto que usaremos como ejemplo es el carrito de un e-commerce, en donde este debe comunicarse con la pasarela de pago y el control de inventario.
 La forma en que se puede implementar nos presenta dos opciones: tópicos y una serie de mensajes.
@@ -36,7 +36,7 @@ Ahora bien, si quisiéramos agregar un nuevo consumidor a la cola de mensajes, s
 
 De manera que, en el lado izquierdo, con la misma infraestructura, solo suscribimos al consumidor y listo, mientras que, en el lado derecho, a través de las colas de mensajes, los cambios son más notorios.
 
-![alt text](/assets/img/arq-004-3.png){: width="700" }
+![alt text](/assets/img/arq-004-3.webp){: width="700" }
 
 Si nosotros hacemos una comparación para obtener ventajas y desventajas tenemos lo siguiente:
 
@@ -48,7 +48,7 @@ Aquí es donde el tema de análisis de trade-offs cobra sentido en términos de 
 
 Por último, es importante mencionar que no solo existen ventajas, sino también desventajas, las cuales mostramos en el siguiente gráfico.
 
-![alt text](/assets/img/arq-004-4.png){: width="800" }
+![alt text](/assets/img/arq-004-4.webp){: width="800" }
 
 Implementación por tópicos
 

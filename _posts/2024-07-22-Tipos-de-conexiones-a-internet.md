@@ -5,7 +5,7 @@ date: 2024-07-22 20:08:00 -0600
 categories: [Redes]
 tags: [CCNA]
 description: No todas las redes están compuestas de la misma forma; su estructura depende de las necesidades del cliente, los requisitos, el capital invertido y el área geográfica.....
-img: /assets/img/net-004.png
+img: /assets/img/net-004.webp
 ---
 
 --- 

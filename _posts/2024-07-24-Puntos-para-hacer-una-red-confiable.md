@@ -5,7 +5,7 @@ date: 2024-07-24 20:15:00 -0600
 categories: [Redes]
 tags: [CCNA]
 description: Estos puntos son esenciales para garantizar la seguridad, eficiencia y el planeamiento a futuro de una red.....
-img: /assets/img/net-005.png
+img: /assets/img/net-005.webp
 ---
 
 --- 

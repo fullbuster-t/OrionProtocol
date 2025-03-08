@@ -5,13 +5,13 @@ date: 2024-08-30 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Fundamentos de arquitectura de software]
 description: Dentro del proceso de desarrollo de software, debemos tener en cuenta dónde empieza y dónde termina la arquitectura y el diseño de software, así como cuál es la responsabilidad de cada uno.....
-img: /assets/img/arq-003.png
+img: /assets/img/arq-003.webp
 ---
 
 --- 
 Dentro del proceso de desarrollo de software, debemos tener en cuenta dónde empieza y dónde termina la arquitectura y el diseño de software, así como cuál es la responsabilidad de cada uno. Esto nos ayuda a definir quién debe tomar las decisiones y quiénes deben colaborar durante el proceso, así como el grado de colaboración entre arquitectos y desarrolladores.
 
-![alt text](/assets/img/arq-003-1.png){: width="600" }
+![alt text](/assets/img/arq-003-1.webp){: width="600" }
 
 En este gráfico, se denotan, del lado izquierdo, todas las decisiones que corresponden a la arquitectura de software, y en el lado superior derecho, las decisiones respecto al diseño de software. En el medio, podemos definir que se encuentra el punto de colaboración entre desarrolladores y arquitectos.
 
@@ -27,7 +27,7 @@ Decisión de arquitectura: cambiar el estilo de arquitectura de monolito a micro
 
 Como se puede observar, las dos figuras que se desarrollan en este contexto son tanto el desarrollador como el arquitecto.
 
-![alt text](/assets/img/arq-003-2.png){: width="700" }
+![alt text](/assets/img/arq-003-2.webp){: width="700" }
 
 Para el arquitecto las principales funciones son:
 

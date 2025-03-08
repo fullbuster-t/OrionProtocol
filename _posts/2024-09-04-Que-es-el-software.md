@@ -5,7 +5,7 @@ date: 2024-09-04 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Fundamentos de arquitectura de software]
 description: El producto principal del trabajo de un desarrollador es el código fuente, que nos permite producir los ejecutables o el programa en un lugar donde los usuarios puedan utilizarlos.....
-img: /assets/img/arq-005.png
+img: /assets/img/arq-005.webp
 ---
 
 ---

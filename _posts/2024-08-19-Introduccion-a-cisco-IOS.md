@@ -5,7 +5,7 @@ date: 2024-08-19 06:07:00 -0600
 categories: [Redes]
 tags: [CCNA]
 description: Es la interfaz “amigable” (y a veces no tan amigable) que permite la interacción entre el usuario y el hardware de la computadora, facilitando la navegación en el sistema de archivos, el uso de software, etc.....
-img: /assets/img/net-009.png
+img: /assets/img/net-009.webp
 ---
 
 ---
@@ -28,7 +28,7 @@ Representa todos los componentes físicos y tangibles de una computadora, es dec
 
 ### Tipos de interfaces.
 
-![alt text](/assets/img/net-009-1.png){: width="600" }
+![alt text](/assets/img/net-009-1.webp){: width="600" }
 
 ### Objetivo de un SO en un dispositivo de red.
 

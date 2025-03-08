@@ -5,7 +5,7 @@ date: 2024-08-28 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Fundamentos de arquitectura de software]
 description: Aquí se muestra la forma en que un arquitecto debe adquirir conocimiento, cómo debe ser el enfoque y qué debe priorizar.....
-img: /assets/img/arq-002.png
+img: /assets/img/arq-002.webp
 ---
 
 ---
@@ -14,7 +14,7 @@ Aquí se muestra la forma en que un arquitecto debe adquirir conocimiento, cómo
 
 El siguiente gráfico representa el conocimiento junto con los ejes X e Y, que representan la amplitud y profundidad respecto al conocimiento. Además de ello, se hace una pequeña comparación entre un desarrollador y un arquitecto en términos de conocimiento.
 
-![alt text](/assets/img/arq-002-1.png){: width="550" }
+![alt text](/assets/img/arq-002-1.webp){: width="550" }
 
 El desarrollador debe tener habilidades desarrolladas en alguna tecnología, lenguaje o tipo de implementación.
 
@@ -22,11 +22,11 @@ El arquitecto debe conocer distintas temáticas en torno al desarrollo de softwa
 
 El desarrollo debe moverse respecto al eje y (profundidad de conocimiento), mientras que el arquitecto se desplaza dentro del eje x (amplitud de conocimiento). A medida que se aumenta la amplitud técnica y el conocimiento, se puede llegar a una mejor toma de decisiones.
 
-![alt text](/assets/img/arq-002-2.png){: width="550" }
+![alt text](/assets/img/arq-002-2.webp){: width="550" }
 
 Para la toma de decisiones, haremos un ejemplo usando la matriz de Rumsfeld. Esta matriz nos ayuda a graficar la conciencia respecto al conocimiento mediante el uso de cuatro cuadrantes.
 
-![alt text](/assets/img/arq-002-3.png){: width="550" }
+![alt text](/assets/img/arq-002-3.webp){: width="550" }
 
 **Lo que sabemos que sabemos:** como desarrollador, podemos entender que somos capaces de manejar y hacer uso de un lenguaje o tecnología de desarrollo.
 
@@ -38,5 +38,5 @@ Para la toma de decisiones, haremos un ejemplo usando la matriz de Rumsfeld. Est
 
 Ahora bien, si queremos cuantificar este conocimiento, podemos hacer uso de la pirámide que viene en conjunto con la matriz, donde la parte azul representa lo que sabemos que sabemos.
 
-![alt text](/assets/img/arq-002-4.png){: width="300" }
+![alt text](/assets/img/arq-002-4.webp){: width="300" }
 

@@ -5,7 +5,7 @@ date: 2024-10-09 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Fundamentos de arquitectura de software]
 description: Son documentos que se usan durante el diseño y desarrollo de software.....
-img: /assets/img/arq-020.png
+img: /assets/img/arq-020.webp
 ---
 
 ---
@@ -24,7 +24,7 @@ Entre las partes que los componen se encuentran:
 - Casos de uso
 - Decisiones y patrones
 
-![alt text](/assets/img/arq-020-1.png){: width="750" }
+![alt text](/assets/img/arq-020-1.webp){: width="750" }
 
 Estos documentos suelen ir más allá de la arquitectura del software, ya que nos permiten comunicar procesos de implementación y casos de uso. Todas estas nuevas características nos ayudan a entender por qué se está desarrollando algo dentro del software (ya sea módulos, peticiones, etc.). Su principal meta es expresar lo que se piensa hacer, por qué se va a hacer y cómo se planea llevar a cabo.
 
