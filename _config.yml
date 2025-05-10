@@ -4,6 +4,7 @@ description: >-
 url: "https://fullbuster-t.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  fullbuster-t
+timezone: America/Mexico_City
 
 # Build settings
 theme: minima
