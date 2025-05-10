@@ -39,3 +39,7 @@ Otro comando que suele ser muy utilizado es el siguiente
 **git config --global alias.lg "log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"**
 
 Este comando hace referencia a un git log con diferentes modificadores. Como podemos ver, este comando nos ayudará a crear un alias que, de otro modo, tendríamos que escribir con toda su sintaxis, lo que nos quitaría mucho tiempo durante el desarrollo.  
+<<<<<<< HEAD
+=======
+
+>>>>>>> 484ddd13aa9fb366b93f14ed5c304e0b290308d3
