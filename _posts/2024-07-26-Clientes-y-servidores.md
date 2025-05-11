@@ -4,7 +4,7 @@ title: "Clientes y servidores"
 date: 2024-07-26 20:20:00 -0600
 categories: [Redes]
 tags: [CCNA]
-description: A la hora de instalar una red, existen varias tendencias actuales, y estas son algunas de las más importantes.....
+description: En el contexto actual, todos los dispositivos que están conectados a la red y que participan en las comunicaciones de datos en la red son clasificados como hosts.....
 img: /assets/img/net-006.webp
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anchos de banda y rendimiento"
+title: "Ancho de banda y rendimiento"
 date: 2024-07-24 20:15:00 -0600
 categories: [Redes]
 tags: [CCNA]

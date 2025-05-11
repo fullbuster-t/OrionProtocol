@@ -4,7 +4,7 @@ title: "Las bases de internet: todo es un bit"
 date: 2024-07-19 20:05:00 -0600
 categories: [Redes]
 tags: [CCNA]
-description: Cuando utilizamos aplicaciones (ya sea de mensajería, consultando las previsiones climáticas, viendo algún video de YouTube o incluso descargando algún documento de internet), estamos haciendo uso de bits. Pero, ¿qué es un bit?....
+description: Cuando utilizamos aplicaciones (ya sea de mensajería, consultando las previsiones climáticas, viendo algún video de YouTube o incluso descargando algún documento de internet), estamos haciendo uso de bits.....
 img: /assets/img/net-003.webp
 ---
 

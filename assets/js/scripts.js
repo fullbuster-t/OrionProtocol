@@ -126,10 +126,7 @@ const fraseAleatoria = frases[indiceAleatorio];
 // Modificamos el texto del elemento en el HTML
 const textoElemento = document.getElementById("main__phrase");
 textoElemento.textContent = fraseAleatoria;
-<<<<<<< HEAD
 
 // Colores primarios
 
 
-=======
->>>>>>> 484ddd13aa9fb366b93f14ed5c304e0b290308d3
